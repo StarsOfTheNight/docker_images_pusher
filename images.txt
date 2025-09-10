@@ -1,1 +1,2 @@
-rancher/rancher:v2.12.1
+kube-webhook-certgen:v1.6.2
+controller:v1.6.2

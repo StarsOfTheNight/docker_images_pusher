@@ -1,1 +1,2 @@
-rancher/shell:v0.5.0
+registry.k8s.io/ingress-nginx/controller:v1.8.2
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-8b53cabe0

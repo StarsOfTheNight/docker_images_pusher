@@ -1,1 +1,1 @@
-bitnami/redis:22.0.7
+bitnami/redis:8.2.1

@@ -1,1 +1,2 @@
 zookeeper:3.9.3
+kafka:2.13-3.9.1

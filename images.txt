@@ -1,1 +1,1 @@
-kube-state-metrics:v1.9.0
+prom/prometheus:v2.33.5

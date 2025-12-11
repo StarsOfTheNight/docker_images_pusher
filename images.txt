@@ -1,1 +1,1 @@
-grafana/grafana:8.4.5
+kafka:3.9.1

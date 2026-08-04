@@ -1,1 +1,1 @@
-ubuntu:latest
+openjdk:8-jdk-slim

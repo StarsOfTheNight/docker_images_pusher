@@ -1,1 +1,1 @@
-rancher/rke2-runtime:v1.36.5-rke2r1
+debian:trixie-slim
